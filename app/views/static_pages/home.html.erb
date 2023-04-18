@@ -1,16 +1,20 @@
 <div class="center jumbotron">
-  <h1>Welcome to the Sample App</h1>
+  <h1>Welcome to Eagle Eye Hunts</h1>
 
-  <h2>
-    This is the home page for the
-    <a href="https://www.railstutorial.org/">Ruby on Rails Tutorial</a>
-    sample application.
-  </h2>
+  <% if !logged_in? %>
+    <h2>
+      Don't have an account?
+    </h2>
 
-  <%= link_to "Sign up now!", signup_path, class: "btn btn-lg btn-primary" %>
+    <%= link_to "Sign up now!", signup_path, class: "btn btn-lg btn-primary" %>
+  <% end %>
 </div>
 
-<%= link_to image_tag("rails.svg", alt: "Rails logo", width: "200"),
+<div class="col">
+  <%= tag.div nil, id: 'map'%>
+</div>
+
+<%#= link_to image_tag("rails.svg", alt: "Rails logo", width: "200"),
                       "https://rubyonrails.org/" %>
 
 <%#= image_tag("kitten.jpg", alt: "Kitten") %>

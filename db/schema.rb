@@ -10,7 +10,26 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2023_04_16_200924) do
+ActiveRecord::Schema[7.0].define(version: 2023_04_17_221607) do
+  create_table "hunts", force: :cascade do |t|
+    t.float "latitude"
+    t.float "longitude"
+    t.string "text"
+    t.string "url"
+    t.boolean "start"
+    t.boolean "end"
+    t.integer "author"
+  end
+
+  create_table "places", force: :cascade do |t|
+    t.string "name"
+    t.string "address"
+    t.float "latitude"
+    t.float "longitude"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
   create_table "users", force: :cascade do |t|
     t.string "name"
     t.string "email"
