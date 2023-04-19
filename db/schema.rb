@@ -12,6 +12,7 @@
 
 ActiveRecord::Schema[7.0].define(version: 2023_04_17_221607) do
   create_table "hunts", force: :cascade do |t|
+    t.name "label"
     t.float "latitude"
     t.float "longitude"
     t.string "address"

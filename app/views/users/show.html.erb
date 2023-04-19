@@ -13,15 +13,18 @@ Time Now: <%= Time.now %>
         <%= picture_for @user %>
         <%= @user.name %>
       </h1>
-
+      <!-- Display all start pins -->
     </section>
+    <p>A Bucs Life Start: 32.982293, -80.069707</p>
+    <p>First Made Start: <%= request.location.latitude %>, <%= request.location.longitude %></p>
   </aside>
 </div>
 
 <div id="map-container" class="center ">
   <iframe id="map-canvas"
-   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBAtvH3oVz83MLOgVr_wuiK3VgsIw-gKWA&q=<%= request.location.latitude %>, <%= request.location.longitude %>"
+   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBAtvH3oVz83MLOgVr_wuiK3VgsIw-gKWA&q=32.982293, -80.069707"
    allowfullscreen>
   </iframe>
 </div>
-   <!--src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBAtvH3oVz83MLOgVr_wuiK3VgsIw-gKWA&q=Ashby Hall - Charleston Southern University"-->
+
+   <!--src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBAtvH3oVz83MLOgVr_wuiK3VgsIw-gKWA&q=<%= request.location.latitude %>, <%= request.location.longitude %>"-->

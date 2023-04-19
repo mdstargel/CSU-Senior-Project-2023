@@ -6,20 +6,23 @@
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
     <%= form_with(url: hunts_path, scope: :hunts) do |f| %>
+      <%= f.label  :label %>
+      <%= f.text_field :label, class: 'form-control' %>
+
       <%= f.label  :address %>
-      <%= f.email_field :address, class: 'form-control' %>
+      <%= f.text_field :address, class: 'form-control' %>
 
       <%= f.label "Latitude" %>
-      <%= f.number_field :latitude, class: 'form-control' %>
+      <%= f.text_field :latitude, class: 'form-control' %>
 
       <%= f.label "Longitude" %>
-      <%= f.email_field :longitude, class: 'form-control' %>
+      <%= f.text_field :longitude, class: 'form-control' %>
 
       <%= f.label "Text" %>
-      <%= f.email_field :text, class: 'form-control' %>
+      <%= f.text_field :text, class: 'form-control' %>
 
       <%= f.label "URL" %>
-      <%= f.email_field :url, class: 'form-control' %>
+      <%= f.url_field :url, class: 'form-control' %>
 
       <%= f.submit "Create", class: "btn btn-primary" %>
     <% end %>

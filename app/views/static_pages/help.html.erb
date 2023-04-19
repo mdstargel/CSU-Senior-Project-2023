@@ -1,11 +1,23 @@
 <% provide(:title, "Help") %>
 <h1>Help</h1>
+
+<h3>Confused?</h3>
+<h4 style="text-align:center">Maybe this will help...</h4><br/>
 <p>
-  Insert instructions how to operate the app.
+  1. Here's how you create an account.<br/>
+  2. Here's how you log in.<br/>
+  3. Forgot your password? No problem!<br/>
+  4. Here's how to start a hunt.<br/>
+  5. Here's how to create a hunt.<br/>
 </p>
 
-<p>
-  <% if logged_in? && current_user.admin? %>
-    Instructions for Operating the "User" page
-  <% end %>
-</p>
+<% if logged_in? && current_user.admin? %>
+  <br/><br/>
+
+  <h4 style="text-align:center">Welcome Admin!</h4><br/>
+
+  <p>
+    1. Here's how to delete a user.<br/>
+    2. Here's how you delete a hunt.<br/>
+  </p>
+<% end %>
