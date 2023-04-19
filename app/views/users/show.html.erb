@@ -20,7 +20,8 @@ Time Now: <%= Time.now %>
 
 <div id="map-container" class="center ">
   <iframe id="map-canvas"
-   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBAtvH3oVz83MLOgVr_wuiK3VgsIw-gKWA&q=9200 University Blvd, Charleston SC 29406"
+   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBAtvH3oVz83MLOgVr_wuiK3VgsIw-gKWA&q=<%= request.location.latitude %>, <%= request.location.longitude %>"
    allowfullscreen>
   </iframe>
 </div>
+   <!--src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBAtvH3oVz83MLOgVr_wuiK3VgsIw-gKWA&q=Ashby Hall - Charleston Southern University"-->
