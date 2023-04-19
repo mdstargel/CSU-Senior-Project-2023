@@ -24,7 +24,7 @@
    border-width: 7px;
  }
 
- #map {
+ #map-canvas {
    height: 384px;
    width: 100%;
  }

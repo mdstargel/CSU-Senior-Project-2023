@@ -3,7 +3,7 @@ class CreateHunts < ActiveRecord::Migration[7.0]
     create_table :hunts do |t|
       t.float :latitude
       t.float :longitude
-
+      t.string :address
       t.timestamps
     end
   end

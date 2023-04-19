@@ -1,5 +1,6 @@
 class StaticPagesController < ApplicationController
   def home
+    @address = request.location.address
   end
 
   def help

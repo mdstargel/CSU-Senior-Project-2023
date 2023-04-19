@@ -33,3 +33,5 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+f396eb96815778409ec8d439de6a79a5

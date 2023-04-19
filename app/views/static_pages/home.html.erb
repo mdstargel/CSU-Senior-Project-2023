@@ -10,8 +10,11 @@
   <% end %>
 </div>
 
-<div class="col">
-  <%= tag.div nil, id: 'map'%>
+<div id="map-container">
+  <iframe id="map-canvas"
+   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBAtvH3oVz83MLOgVr_wuiK3VgsIw-gKWA&q=" + address
+   allowfullscreen>
+  </iframe>
 </div>
 
 <%#= link_to image_tag("rails.svg", alt: "Rails logo", width: "200"),

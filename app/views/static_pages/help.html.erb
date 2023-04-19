@@ -1,5 +1,11 @@
 <% provide(:title, "Help") %>
 <h1>Help</h1>
 <p>
-  This will be where I put instructions how to operate the app.
+  Insert instructions how to operate the app.
+</p>
+
+<p>
+  <% if logged_in? && current_user.admin? %>
+    Instructions for Operating the "User" page
+  <% end %>
 </p>
