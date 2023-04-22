@@ -9,11 +9,13 @@ CSCI499 Defense Documentation
 ## Statement of Purpose (with the Problem Statement)
 
 - Scavenger hunts are a popular puzzle activity that many people enjoy, and those who want to create or participate in one should be able to do so without physically going to each location to plant clues or being a physical object. Instead, they should be able to create a list of virtual clues and drop a pin at each location and view a clue when they get close enough to the location. Scavenger hunts have various purposes, including team building, exploration, adventure, and fun. However, the few providers who offer scavenger hunts are subscription-based, which discourages people from using them for social events. Most companies use pre-made hunts instead of allowing users to create their own. Since a hunt is web and GPS-based, it is tied to an internet address and a mobile device's location to reveal clues, making it easily accessible and encouraging more people to use the app without a financial commitment. To maximize the app's use, its key features should be free, user-friendly, and customizable.
+
 - Problem
   - Physically placing clues
   - Subscription
   -	No order
   -	Pre-made hunts by co.
+
 -	Solution
   -	Drop clue pins
   - Free
