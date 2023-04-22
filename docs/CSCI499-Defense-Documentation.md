@@ -48,7 +48,7 @@ CSCI499 Defense Documentation
 -	Link to my web app
 -	Location enabled device
 
-## Project Requirements
+## Project Implementation Description & Explanation
 
 -	Test Plan
   - Integrated testing suite with Ruby on Rails
