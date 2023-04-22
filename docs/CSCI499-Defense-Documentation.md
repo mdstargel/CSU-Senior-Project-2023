@@ -15,7 +15,7 @@ CSCI499 Defense Documentation
   -	No order
   -	Pre-made hunts by co.
 -	Solution
-  - Drop clue pins
+  -	Drop clue pins
   - Free
   - Ordered clues
   - User creates custom hunts
