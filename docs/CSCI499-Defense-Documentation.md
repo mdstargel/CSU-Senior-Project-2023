@@ -1,10 +1,10 @@
 CSCI499 Defense Documentation
 =============================
 
--   **Micah Stargel** 
--   **Bachelor of Science** 
--   **Computer Science** 
--   **Dr. Sean Hayes** 
+- **Micah Stargel** 
+- **Bachelor of Science** 
+- **Computer Science** 
+- **Dr. Sean Hayes** 
 
 ## Statement of Purpose (with the Problem Statement)
 
@@ -16,7 +16,7 @@ CSCI499 Defense Documentation
   -	No order
   -	Pre-made hunts by co.
 
--	Solution
+- Solution
   -	Drop clue pins
   - Free
   - Ordered clues
