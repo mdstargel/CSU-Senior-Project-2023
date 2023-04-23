@@ -57,7 +57,7 @@ Needed To Run
   - Integrated testing suite with Ruby on Rails
   - Manual/functional testing
 
-[Test Plan Specification](/pdf/test.txt)
+[Test Plan Specification](/pdf/tests.txt)
 
 - Test Results
   - Positive Test Results
