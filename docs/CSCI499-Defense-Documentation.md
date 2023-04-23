@@ -86,7 +86,31 @@ Needed To Run
 
 [Test Cases](/pdf/Test_Cases.txt)
 
- (insert screenshots here)
+### Screenshots
+
+*Fig 1-1. Home Page not logged in* 
+ ![Home Page](/img/home.jpg)
+
+*Fig 1-2. Home Page logged in* 
+ ![Home Page](/img/home_nonadmin.jpg)
+
+*Fig 1-3. Home Page admin logged in* 
+ ![Home Page](/img/home_admin.jpg)
+
+ *Fig 2-1. Help Page non-admin view* 
+ ![Help Page](/img/help_nonadmin.jpg)
+
+ *Fig 2-2. Help Page admin view* 
+ ![Help Page](/img/help_admin.jpg)
+
+ *Fig 3-1. About Page* 
+ ![About Page](/img/about1.jpg)
+ 
+ *Fig 3-2. About Page* 
+ ![About Page](/img/about2.jpg)
+ 
+ *Fig 1. Home Page not logged in* 
+ ![Test Cases](/img/home.jpg)
  
 - Challenges Overcome
   - Learning Programming Languages
