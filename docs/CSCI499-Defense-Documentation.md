@@ -57,6 +57,7 @@ Needed To Run
   - Integrated testing suite with Ruby on Rails
   - Manual/functional testing
 
+[Test Plan Specification](/pdf/test.txt)
 
 - Test Results
   - Positive Test Results
@@ -84,12 +85,13 @@ Needed To Run
 
  
 - Challenges Overcome
-  - Learning Languages
+  - Learning Programming Languages
   - Google Maps API Integration
-  - Course Overload
+  - Academic Course Overload
 
 
 - Corrective Actions/Future Enhancements
+  - Dynamic Google Maps API Integration
   - Start pins displayed within radius of user on homepage
   - All hunts created by user displayed on their profile
   - Pause hunts
