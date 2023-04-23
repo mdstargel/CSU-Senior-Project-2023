@@ -88,30 +88,123 @@ Needed To Run
 
 ### Screenshots
 
-*Fig 1-1. Home Page not logged in* 
- ![Home Page](/img/home.jpg)
+  *Fig 1-1. Home Page not logged in* 
+  ![Home Page](/img/home.jpg)
 
-*Fig 1-2. Home Page logged in* 
- ![Home Page](/img/home_nonadmin.jpg)
+  *Fig 1-2. Home Page logged in* 
+  ![Home Page](/img/home_nonadmin.jpg)
 
-*Fig 1-3. Home Page admin logged in* 
- ![Home Page](/img/home_admin.jpg)
+  *Fig 1-3. Home Page admin logged in* 
+  ![Home Page](/img/home_admin.jpg)
 
- *Fig 2-1. Help Page non-admin view* 
- ![Help Page](/img/help_nonadmin.jpg)
+  *Fig 2-1. Help Page non-admin view* 
+  ![Help Page](/img/help_nonadmin.jpg)
 
- *Fig 2-2. Help Page admin view* 
- ![Help Page](/img/help_admin.jpg)
+  *Fig 2-2. Help Page admin view* 
+  ![Help Page](/img/help_admin.jpg)
 
- *Fig 3-1. About Page* 
- ![About Page](/img/about1.jpg)
- 
- *Fig 3-2. About Page* 
- ![About Page](/img/about2.jpg)
- 
- *Fig 1. Home Page not logged in* 
- ![Test Cases](/img/home.jpg)
- 
+  *Fig 3-1. About Page* 
+  ![About Page](/img/about1.jpg)
+
+  *Fig 3-2. About Page* 
+  ![About Page](/img/about2.jpg)
+
+  *Fig 4-1. Contact Page* 
+  ![Contact Page](/img/contact.jpg)
+
+  *Fig 4-2. Contact Page Generated Email Template* 
+  ![Contact Page Email](/img/contact_email.jpg)
+
+  *Fig 5-1. Sign Up* 
+  ![Sign Up](/img/signup_valid_data.jpg)
+
+  *Figs 5-2. Sign Up Blank* 
+  ![Sign Up Blank](/img/signup_blank.jpg)
+
+  *Figs 5-3-1. Sign Up Invalid Email* 
+  ![Sign Up Invalid Email 1](/img/signup_invalid_email.jpg)
+  
+  *Figs 5-3-2. Sign Up Invalid Email* 
+  ![Sign Up Invalid Email 2](/img/signup_invalid_email2.jpg)
+
+  *Figs 5-5. Sign Up Invalid Password* 
+  ![Sign Up Invalid Password](/img/signup_pw_short.jpg)
+  
+  *Figs 5-6. Sign Up Invalid Password Confirmation* 
+  ![Sign Up Invalid Confirmation](/img/signup_pw_con_error.jpg)
+
+  *Fig 6-1. Account Activation* 
+  ![Account Activation](/img/activation.jpg)
+
+  *Fig 6-2. Account Activated* 
+  ![Account Activated](/img/activated.jpg)
+
+  *Fig 6-3. Account Not Activated Login Attempt* 
+  ![Account Not Activated](/img/new_user_not_activated.jpg)
+
+  *Fig 7-1. Profile Page* 
+  ![Profile Page](/img/profile.jpg)
+
+  *Fig 7-2. Profile Page with Dropdown* 
+  ![Profile Page with Dropdown](/img/profile_w_account_dropdown.jpg)
+  
+  *Fig 8. Create Page* 
+  ![Create Page](/img/new_hunt_form.jpg)
+
+  *Fig 9-1. Settings Page Before Update* 
+  ![Settings Page Before Update](/img/settings_b4_edit.jpg)
+  
+  *Fig 9-2. Settings Update Confirmation* 
+  ![Settings Update Confirmation](/img/settings_updated.jpg)
+
+  *Fig 9-3. Settings Page After Update* 
+  ![Settings Page After Update](/img/settings_after_edit.jpg)
+
+  *Fig 10-1. Invalid Login* 
+  ![Invalid Login](/img/invalid_login.jpg)
+
+  *Fig 10-2. Login Remember* 
+  ![Login Remember](/img/login_remember.jpg)
+
+  *Fig 11-1. Forgot Password Invalid Email* 
+  ![Forgot Password Invalid Email](/img/forgot_password_invalid.jpg)
+
+  *Fig 11-2. Forgot Password Invalid Email Error* 
+  ![Forgot Password Invalid Error](/img/forgot_invalid.jpg)
+  
+  *Fig 11-3. Forgot Password Valid Email* 
+  ![Forgot Password Valid Email](/img/forgot_password_valid.jpg)
+
+  *Fig 11-4. Forgot Password Email Sent* 
+  ![Forgot Password Valid](/img/forgot_valid.jpg)
+
+  *Fig 11-5. Forgot Password Reset Invalid Password* 
+  ![Forgot Password Reset Invalid](/img/reset_short.jpg)
+
+  *Fig 11-6. Forgot Password Reset Success* 
+  ![Forgot Password Reset Invalid Confirmation](/img/reset_no_match.jpg)
+
+  *Fig 11-7. Forgot Password Reset Success* 
+  ![Forgot Password Reset](/img/pw_reset_success.jpg)
+
+  *Fig 12-1. Admin Users Page* 
+  ![Admin Users Page](/img/admin_users.jpg)
+
+  *Fig 12-2. Admin Users Database Before Delete* 
+  ![Admin Users Database B4](/img/user_db_b4_delete.jpg)
+
+  *Fig 12-3. Admin Users Deleted User* 
+  ![Admin Users Deleted User](/img/user_delete.jpg)
+
+  *Fig 12-2. Admin Users Database After Delete and Check Remember* 
+  ![Admin Users Database After and Remember](/img/user_db_af_remember.jpg)
+
+  *Fig 12-1. Mobile View* 
+  ![Mobile View](/img/mobile_home.jpg)
+
+  *Fig 12-2. Mobile View with Hamburger Menu* 
+  ![Mobile View Hamburger](/img/mobile_ham.jpg)
+
 - Challenges Overcome
   - Learning Programming Languages
   - Google Maps API Integration
