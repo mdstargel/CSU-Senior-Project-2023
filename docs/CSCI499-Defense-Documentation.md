@@ -98,9 +98,9 @@ CSCI499 Defense Documentation
   - Active/inactive hunts toggle
 
 
--	Lessons Learned
+- Lessons Learned
   -	Scope
-    - Well Defined & Predetermined Priorities
+    -	Well Defined & Predetermined Priorities
     - Underestimated Complexity
   - Languages
     - Well-Rounded Programmer by Learning New Languages
