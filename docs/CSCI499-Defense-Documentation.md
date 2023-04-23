@@ -60,8 +60,7 @@ Needed To Run
 
 - Test Results
   - Positive Test Results
-    - Static pages function
-      - Home, About, Contact, Help
+    - Static pages function (Home, About, Contact, Help)
     - Home page removes sign up when logged in
     - User can create an account
     - User email activation
