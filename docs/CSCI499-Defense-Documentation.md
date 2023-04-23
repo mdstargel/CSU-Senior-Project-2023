@@ -200,9 +200,11 @@ Needed To Run
   ![Admin Users Database After and Remember](/img/user_db_af_remember.jpg)
 
   *Fig 12-1. Mobile View*
+  \
   ![Mobile View](/img/mobile_home.jpg)
   \
   *Fig 12-2. Mobile View with Hamburger Menu* 
+  \
   ![Mobile View Hamburger](/img/mobile_ham.jpg)
 
 - Challenges Overcome
