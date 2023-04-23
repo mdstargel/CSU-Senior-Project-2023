@@ -44,9 +44,12 @@ CSCI499 Defense Documentation
 
 ## Project Requirements
 
+Needed To Run
 -	Internet Access
 -	Link to my web app
 -	Location enabled device
+
+Requirements Specification
 
 ## Project Implementation Description & Explanation
 
