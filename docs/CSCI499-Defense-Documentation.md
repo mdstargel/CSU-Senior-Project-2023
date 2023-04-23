@@ -57,7 +57,7 @@ Needed To Run
   - Integrated testing suite with Ruby on Rails
   - Manual/functional testing
 
-[Test Plan Specification](/pdf/tests.txt)
+[Test Plan Specification](/pdf/Test_Plan_Specification.txt)
 
 - Test Results
   - Positive Test Results
@@ -79,10 +79,12 @@ Needed To Run
     - Placing multiple pins
     - Linking pins together as a hunt
     - Starting a hunt
-    - Device location gathering
-    - Ask location permission on visiting
-    - Email activation in publication
+    - Precise Device Location Gathering
+    - Ask Location Permission on Visiting App
+    - Email Sending in Production
+    - Start Pin Form Functions not working
 
+ (insert screenshots here)
  
 - Challenges Overcome
   - Learning Programming Languages
@@ -92,6 +94,7 @@ Needed To Run
 
 - Corrective Actions/Future Enhancements
   - Dynamic Google Maps API Integration
+  - Hold to place pin
   - Start pins displayed within radius of user on homepage
   - All hunts created by user displayed on their profile
   - Pause hunts
@@ -100,6 +103,9 @@ Needed To Run
   - Hunt sharing link
   - Edit clues
   - Active/inactive hunts toggle
+  - Image clues
+  - Deleting hunts
+  - Linking Pins Together to Make Hunt
 
 
 - Lessons Learned
