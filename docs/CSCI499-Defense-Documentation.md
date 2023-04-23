@@ -105,6 +105,6 @@ CSCI499 Defense Documentation
   - Languages
     - Well-Rounded Programmer by Learning New Languages
   - Detailed planning/Phased Approach
-  - Milestones & Dependencies
+    - Milestones & Dependencies
     - Diagrams & Mock-ups
     - Rehearsal of Concept Drills & Simulations
