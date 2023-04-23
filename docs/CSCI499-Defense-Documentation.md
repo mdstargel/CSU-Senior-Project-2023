@@ -84,6 +84,8 @@ Needed To Run
     - Email Sending in Production
     - Start Pin Form Functions not working
 
+[Test Cases](/pdf/Test_Cases.txt)
+
  (insert screenshots here)
  
 - Challenges Overcome
