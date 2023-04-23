@@ -49,7 +49,7 @@ Needed To Run
 -	Link to my web app
 -	Location enabled device
 
-[Requirements Specification](/pdf/CSU Senior Project Requirements Specification - Micah Stargel - Fall 2022.pdf)
+[Requirements Specification](/pdf/Senior_Project_Requirements_Specification.pdf)
 
 ## Project Implementation Description & Explanation
 
