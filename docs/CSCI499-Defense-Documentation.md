@@ -203,6 +203,7 @@ Needed To Run
   \
   ![Mobile View](/img/mobile_home.jpg)
   \
+  \
   *Fig 12-2. Mobile View with Hamburger Menu* 
   \
   ![Mobile View Hamburger](/img/mobile_ham.jpg)
