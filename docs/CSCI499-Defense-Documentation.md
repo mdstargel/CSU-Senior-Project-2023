@@ -99,7 +99,7 @@ CSCI499 Defense Documentation
 
 
 -	Lessons Learned
-  - Scope
+  -	Scope
     - Well Defined & Predetermined Priorities
     - Underestimated Complexity
   - Languages
