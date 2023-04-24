@@ -57,7 +57,7 @@ Needed To Run
   - Integrated testing suite with Ruby on Rails
   - Manual/functional testing
 
-[Test Plan Specification](/pdf/Test_Plan_Specification.txt)
+[Test Plan Specification](/pdf/Test_Plan_Specification.pdf)
 
 - Test Results
   - Positive Test Results
@@ -84,7 +84,7 @@ Needed To Run
     - Email Sending in Production
     - Start Pin Form Functions not working
 
-[Test Cases](/pdf/Test_Cases.txt)
+[Test Cases](/pdf/Test_Cases.pdf)
 
 ### Screenshots
 
